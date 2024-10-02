@@ -11,7 +11,7 @@ In Excel , Click Data->Get Data->Select Web -> ' Provide the URL -> Click on Tra
 **
 #Step 0: Rename  NOC column as Country 
 
-**# Step1:[If the first row is not set as the header go ahead and set it as the header]
+****# Step1**:[If the first row is not set as the header go ahead and set it as the header]
 1) To make first row as the header 
 In the Home ribbon -> check 'Use First row as header '
 
